@@ -53,4 +53,3 @@ export CLICOLOR=1
 export LSCOLORS=ExBxhxDxfxhxhxhxhxcxcx
 
 bind -r '\C-s'
-stt$(parse_git_branch)y -ixon

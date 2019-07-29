@@ -28,7 +28,7 @@
 
 [user]
     name = Tim Krippner
-    email = mrkrippner@gmail.com.com
+    email = mrkrippner@gmail.com
 [core]
     excludesfile = /Users/tkrippner/.gitignore_global
     editor = vim
